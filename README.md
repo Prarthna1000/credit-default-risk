@@ -39,3 +39,8 @@ allowing better risk–volume trade-offs compared to rigid rule-based cutoffs.
 - Scikit-learn
 - Jupyter Notebook
 
+## Data
+This project uses Lending Club loan data.
+The raw dataset is not included due to size and licensing constraints.
+
+
